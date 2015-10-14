@@ -1,0 +1,13 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "postgresql",
+    "host": "/var/run/postgresql",
+    "port": "5432",
+    "database": "board",
+    "username": "postgres",
+    "password": "hid456",
+    "name": "postgres",
+    "debug": true
+  }
+}
